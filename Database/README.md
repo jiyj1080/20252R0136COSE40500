@@ -1,4 +1,6 @@
-# Database Keywords
+# Database
+
+## Keywords
 
 1. DBMS(DataBase Management System)
 2. Relational Model
